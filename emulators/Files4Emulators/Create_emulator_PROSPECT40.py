@@ -2,7 +2,7 @@
 Created on Feb. 26th  2022
 @author: Jingwen Wang
 ------------------------------------------------------------------------------
-This file creates the emulator for PROSPECT-5
+This file creates the emulator for PROSPECT-5, at the selected 40 wavelengths
 ------------------------------------------------------------------------------
 """
 
